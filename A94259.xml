@@ -1,0 +1,177 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Some new observations and considerations upon the present state of things in England. The differences betweene King and Parliament impartially disputed, the persons on both sides truly anatomized and the publique faith vindicated. / By J.S. Gent.</title>
+            <author>J. S., gent.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94259</idno>
+            <idno type="STC">Wing S91</idno>
+            <idno type="STC">Thomason E93_14</idno>
+            <idno type="STC">ESTC R12058</idno>
+            <idno type="EEBO-CITATION">99859196</idno>
+            <idno type="PROQUEST">99859196</idno>
+            <idno type="VID">111265</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94259)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111265)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 16:E93[14])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Some new observations and considerations upon the present state of things in England. The differences betweene King and Parliament impartially disputed, the persons on both sides truly anatomized and the publique faith vindicated. / By J.S. Gent.</title>
+                  <author>J. S., gent.</author>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1643]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Also published with title: Malignancy un-masked. With a plea for the publique fayth ... 1642.</note>
+                  <note>Annotation on Thomason copy: "1642 March 16".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+                  <note>Publication date from Wing.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649.</term>
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:111265:1"/>
+            <pb facs="tcp:111265:1" rendition="simple:additions"/>
+            <head>Some New Obſervations and Conſiderations upon the preſent State of things in ENGLAND.</head>
+            <head type="sub">The Differences betweene King and Parliament impartially diſputed, the Perſons on both ſides truly Anatomized, and the Publique Faith Vindicated.</head>
+            <byline>BY J. S. Gent.</byline>
+            <p>
+               <seg rend="decorInit">I</seg>T is a principle in reaſon aſwel as policy to ſupport great de<g ref="char:EOLhyphen"/>ſignes with firme reſolutions, &amp; endeavours equall to both; wiſedome (which is the ob<g ref="char:EOLhyphen"/>ject of the intellect) ſpeakes no leſſe, common and pru<g ref="char:EOLhyphen"/>dence (which acts in the will) directs what it is to decline the accompliſhment of an expedient once attemdted; Many juſtifie publique folly, and deny publique faith; they approve of ſafety, but diſlike the meanes, they af<g ref="char:EOLhyphen"/>fect the appearance, and reject the eſſence of truth; they ſeeme to obey the King, and yet repugne the Lawes; they honour the Parliament; and ſleight its power; they are ambidexters, and yet neuters; for they looke one way, and ſwim another. If you demand a reaſon, paſſion ſhall ſtep in, and plead tradition; and if you
+<pb n="2" facs="tcp:111265:2"/>make a further progreſſion, they will be ready to ſwallow you up with your duty of Submiſſion to higher powers; they urge a perſonall, and connive at a nationall good; if they be learned, they ſpeake and write obſcurely; if ignorant, it is ſufficient they have the learned (though malefactours) for their preſidents; private relations ſo charme them, that they ſeem to be aſleepe, and happy were this Kingdome, if they might not be awaked till reformation may receive a deepe rooting; the diſcipline (or circumſtantiall part of re<g ref="char:EOLhyphen"/>ligion) they dote upon, but which of them have appea<g ref="char:EOLhyphen"/>red, in defen<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e of any doctrinals wihch have beene wounded by Arminians and others, or have ſuppreſt ſuperſtition, or the graduals of Idolatry? It is a facile matter, to make lubricke profeſſions, and reſerved oathes; but how doe they checke ſuch ſemblances by the expreſſe oppoſition of the generall good? But they ſay they have a Proteſtant King, who will defend the Religion of Queene <hi>Elizabeths</hi> time, they have known Lawes ſtill in force, and with whom, or for what ſhould they conteſt? In anſwer to which, my ſubject will admit of variety of matter (as neceſſary introdu<g ref="char:EOLhyphen"/>ction to my concluſion) therfore let it not offend the Reader, that a method is propounded to ſo ſhort a worke.</p>
+            <p>Firſt,<note place="margin">
+                  <hi>1.</hi> Queſt.</note> I demand, Whether at the Queens time, there were not reliques of ſuperſtition fit to be aboliſhed?</p>
+            <p>Secondly,<note place="margin">
+                  <hi>2.</hi> Queſt.</note> Whether ſince that time the ſame have not multiplied?</p>
+            <p>Thirdly,<note place="margin">
+                  <hi>3.</hi> Queſt.</note> Whether if the ſame be urged, they may not be denyed?</p>
+            <p>Fourthly,<note place="margin">
+                  <hi>4.</hi> Queſt.</note> if innovations of law or religion be infor<g ref="char:EOLhyphen"/>ced by poover, they may not be forceably reſiſted?</p>
+            <pb n="3" facs="tcp:111265:2"/>
+            <p>For the firſt, It is notorious,<note place="margin">
+                  <hi>1.</hi> Anſw.</note> whoſe immediate ſuc<g ref="char:EOLhyphen"/>ceſſor Queen <hi>Elizabeth</hi> was, and how active in refor<g ref="char:EOLhyphen"/>mation; but as in nature a habit is not without great perill deſerted, ſo in policy a ſuddaine change cauſeth a Cataſtrophe; undoubtedly had the good Queene had the command of time, or that the threed of her life had been prolonged, ſhe would have prevented the plea of the preſent oppoſers, <hi>Sed non reluctandum est eum Deo.</hi>
+            </p>
+            <p>For the ſecond,<note place="margin">
+                  <hi>2.</hi> Anſw.</note> who can be ignorant what Commiſ<g ref="char:EOLhyphen"/>ſions for compoſition with recuſants have beene ſince authoriſed? and what growth ſuch toleration hath occaſioned; what indempnities, appeales, and connivences have been foſtered, what incouragements they have implicitely and expreſſely received? and how in many places they have trampled upon our moſt reſined Proteſtants? they began to overlooke the power provided for their ſuppreſſion, and under the Armes of their papal protectors to undermine au<g ref="char:EOLhyphen"/>thority, but I hope I may ſpeake to them as <hi>Seneca</hi> in another caſe, <hi>Non in re ſed opinione laboraſti,</hi> your en<g ref="char:EOLhyphen"/>deavours have not been pertinent, but opinionate.</p>
+            <p>For the third: if I juſtifie not the diſſenting from,<note place="margin">
+                  <hi>3.</hi> Anſw.</note> I doe <hi>(ipſo facto)</hi> tolerate the aſſenting to an impious im<g ref="char:EOLhyphen"/>poſition? power is no further extenſive, then it hath ſubordination from, and reference to the divine pre<g ref="char:EOLhyphen"/>ſcripts, <hi>duo Contradictoria non poſſunt ſimul eſſe vera,</hi> contrary powers cannot be at once effectuall, and I am confident this ſubiect would not be inſiſted upon, but that <hi>Caſus plerumque ridiculus multos elevavit,</hi> a ridiculous matter will blow up ſome diſputations.</p>
+            <p>For the fourth queſtion,<note place="margin">
+                  <hi>4.</hi> Anſw.</note> it is as undeniable as any of the former; for if it be examined whence this high
+<pb n="4" facs="tcp:111265:3"/>ſtrain of reſiſtance is derived, it is anſwered from Maje<g ref="char:EOLhyphen"/>ſty, and there it is patronized, and though I appove not what <hi>Keckerm.</hi> cites in his queſtion) <hi>qualiter iudicandum eſt de reſiſtentiâ Principis (poſſe principem eodem ordine &amp; jure</hi> Regno <hi>dejici quo admiſſus eſt ſieas leges &amp; pacta violet ſub quibus admiſſus eſt:</hi> yet I ſay with <hi>Augustine, Regna ſine juſtitia, magna potius l. trocinia ſunt, quam im<g ref="char:EOLhyphen"/>peria,</hi> A goverment without juſtice, is rather a rob<g ref="char:EOLhyphen"/>bery then a Royall authority. When the Apoſtle ſaith, <hi>Submit to every Ordinance of man, for the Lords ſake;</hi> it muſt be intended they are ſuch Ordinances which the Lord will favour, and theſe words <hi>(for the Lords ſake)</hi> are a limit, and not a motive to obedince. And for the words of ſubmiſſion to the higher powers,<note place="margin">Rom. <hi>13.1.</hi>
+               </note> it is denied that they referre to the Kings perſonall command: His Maieſty in His owne Declaration acknowledgeth His government to be a mixt monarchy, and that mixture preſuppoſeth ſome what (at leaſt) of an equall power to maieſty, <label type="milestone">
+                  <seg type="milestoneunit">Obj. </seg>
+               </label> and what can that be, but the lawes Divine and Humane?</p>
+            <p>But ſay ſome, of all difficulties, none equalizeth this, that profound iudgements, proficients in Law and po<g ref="char:EOLhyphen"/>licy, act this Tragedy on either part, and who ſhall preſume to be a moderator? humane reaſon ſteps back divine precepts ſeeme ambiguous, and who ſhall fur<g ref="char:EOLhyphen"/>ther explaine?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſ. </seg>
+               </label> It is a maxime in experiment, that an united ſtrength, is moſt prevalent; in nature all things move towards their firſt element, ſingularity is an enemy to good, for that the entity of good is mutuall, and diffuſeth it ſelfe into reciprocals. All the ſences of man may have their deceptions (though not all at once) and as the obiect of fight is better diſcerned, one eye being ſhut,
+<pb n="5" facs="tcp:111265:3"/>when they are both open, becauſe that ſence is more contracted to the object; ſo when a whole Kingdom acts by its repreſentative, there is the moſt cleare con<g ref="char:EOLhyphen"/>veyance of diſcerning. Then hence will ariſe this pro<g ref="char:EOLhyphen"/>poſition, That they that beſt know the Kingdomes danger, can beſt provide for its ſafety; but the Parlia<g ref="char:EOLhyphen"/>ment doe beſt know the Kingdomes danger, <hi>ergo,</hi> &amp;c.And here comes in the <hi>quaere,</hi> 
+               <label type="milestone">
+                  <seg type="milestoneunit">Q. </seg>
+               </label> The danger being thus knowne, may they be by power impugned? Reaſon rules us to decline things deſtructive, and prevention is the beſt of policies. <hi>Seneca</hi> ſaith, <hi>Faoilius eſt pernitioſa reſiſtere quam regere, &amp; non admittere quam adniſſa mo<g ref="char:EOLhyphen"/>derari,</hi> It is more eaſie to reſiſt than rule; and not to admit, then being admitted to moderate a miſchiefe; where the ſupreame priviledges (politicall or divine) are in hazard, the greateſt ayd may be made uſe of for their preſervation; and If the King dony to ſecure his people by His power, they may ſecure themſelves by their own; For as farre as publique are preferrable before private advantages, ſo farre an Ordinance in Parliament before the meere perſonall command of a Prince. A King is as a private perſon, if not conſidered in the execution of his Kingly Office, and in that Office he hath His limits. It is a paradon to reaſon, that the will of one ſhould ſubvert the being of a Nation; For poſterity may have cauſe to curſe ſuch an Introduction to ſlavery; obedience is no further lawfull, then it hath a mutuall reflection of good; and is ſo much the more an juſtifiable, by how much the more the pub<g ref="char:EOLhyphen"/>lique detriment may be occaſioned therefrom. If ſhe ſubjecte Jewels (the Lawes) may be defended, they may in ſuch manner be defended as they are oppoſed it was an excellent ſaying ſpoken by a milde King (as
+<pb n="6" facs="tcp:111265:4"/>
+               <hi>Kecker.</hi> in his <hi>curſ. philoſophici diſput.</hi> 35. cites it) <hi>Hee gladio pro meutitor ſi recte imperâro, ſin rempublieam laeſero contrame utitor,</hi> Uſe this Sword for me if I rule rightly, but if I wrong the Commonwealth uſe it a<g ref="char:EOLhyphen"/>gainſt me. The eaſe might be concluded with Doctor <hi>Ferne,</hi> if the King did ſolely deviate, the beſt way were to withhold from him what he willeth where<g ref="char:EOLhyphen"/>with to accompliſh his unjuſt ends, and ſo the flame might be extinguiſhed by withdrawing the fuell; but this caſe is of a different complexion, His Maje<g ref="char:EOLhyphen"/>ſties actions have an influence upon many, or rather, theirs upon him; and for former want of Parliament, there is ſuch a ſwarme of evill doers in the Land, that they ſtand in need of a protection; and becauſe they cannot ſafeguard themſelves, they will have aſſiſtants of equall guilt, and for that a reſiſtance (ſo pernicions) cannot be ſupported without ſome power that may ſtrike terrour in the people, they have got the King to owne them, and that no ſooner attain'd, but (by ſome ſuper uſuall prevalency, which we have cauſe to feare Heavens have permitted for our ſcourge) have ſedu<g ref="char:EOLhyphen"/>ced our Soveraigne to leave His Parliament, (a farall blow, and the ſeed of our ſufferings,) and now they can beaſt of their cauſe, their Captaie, and their quar<g ref="char:EOLhyphen"/>rell; and woe unto us, in that our Kings perſonall and politicall powers are intercombatants. It is not un<g ref="char:EOLhyphen"/>knowne how their Army conſiſts of many who would not ſtay to beare the meaning of juſtice; that pretend to fight for, what apparently they fly from, who fame truth, and therefore feare the touchſtone; ſome there may be (whoſe worth the weale, publique hath never heard of) and for ought that can be judged of them are meere indifference for Law, and Laodiceans for
+<pb n="7" facs="tcp:111265:4"/>religion, and of ſuch I conclude that thoſe troubles might ſooner be determined, were they as good as they are great. Thoſe who are related to His Majeſty, as Servants, Officers, Favorites, (or that expect any ſuch intereſts in reverſion, or otherwiſe) are many, and we wonder not if they are borne away in the ſtreame of their expectations: What Biſhops doe proceed (un<g ref="char:EOLhyphen"/>doubtedly) form a ſpirit of revenge (which is ever acted with envy) and ceaſeth not till the object of its malice be made the ſubject of their chaſtiſement: we expect not reaſons from ignorants, nor why indigents thruſt themſelves upon ſuch a ſervice; it is more then ſufficient, that defect of wit and wealth are their prime inducements. Papiſts (whoſe Religion tolerates them to be cruell) begin to make us ſenſible of a papall ene<g ref="char:EOLhyphen"/>my; they acknowledge Proteſtancy, and their uſurped Catholiſme, to be direct contraries, and yet they are undertakers for defence of the Proteſtant religion, (a myſtery to reaſon, and a perillous inſinuation) indeed they are <hi>(ad har as aptiores quam ad ar as)</hi> fitter to be marked for mortall enemies, then competent assiſitants, and beyond contradiction they will make uſe of their power to root out their oppoſers; of all which per<g ref="char:EOLhyphen"/>ſons take a ſurvey, and you will finde the remain<g ref="char:EOLhyphen"/>der of their ſtrength very inconſiderable; ſo that the inſtruments the matter, and manner of their firſt diſſeverance from us, and aſſociation amongſt themſelves and the ends they apparently propound may ſo ſtigrnatize their petences that none who prize their owne or poſterities good can forbeare to endea<g ref="char:EOLhyphen"/>vour their ſuppreſſion. To what diſtreſſes we are now ſubjected, a tender heart cannot conceive, without great reluctancy; and we are the more unhappy in
+<pb n="8" facs="tcp:111265:5"/>this, that we begin to be weary, of defending our lives, liberties, and religion; great Forces are raiſed, a great worke is on foot, the hearts of people are enlarged, and why ſhould their hands be ſtraitened? There is a publique Felicity, which claimes the Publique Faith, Juſtice is the efficient cauſe of Law, execution the life of power; the protection of offenders juſtifies the of<g ref="char:EOLhyphen"/>fence, and to diſpence with puniſhment is an implicito incouragement: to intruſt the Kingdome in unſafe hands is to provide for its ruine; and ſhould the Na<g ref="char:EOLhyphen"/>tion periſh, the Parliament ſitting, what blemiſh would accrue to ſuch future aſſemblies? many are acquainted with their diſeaſe and remedy, and ſleighting both, blame the Phiſitians; what monſters are they to na<g ref="char:EOLhyphen"/>ture, what mockers of God, whiles they thus perſiſt? many never appeared, and ſome appearing have diſ<g ref="char:EOLhyphen"/>animated multitudes by their apoſtacies, ſo ſweet is the name of propriety, and the Mammon of this world, that they dote upon the increaſe of wealth, whiles a loſſe of the totall ſhould more affect them; they are ſo far from believing, that it is requiſite to hazard all for the preſervation of all, that they will not hazzard part for the ſecuring of the reſt; they imagine not how in<g ref="char:EOLhyphen"/>dividuall and dependant all intereſts be, nor how they are bound by the Lawes of God, nature, and Na<g ref="char:EOLhyphen"/>tion to ſacrifice themſelves, much more their eſtates, for the generall good (wherein they have a particular ſhare.) There is a ſtrange miſpriſion of the word Pub<g ref="char:EOLhyphen"/>lique, when it is taken for the eſſentiall independency of the Kingdome; for it doth, or ought to receive in<g ref="char:EOLhyphen"/>fluence from every member, and ſo by participation they are both compleated. Thoſe that fall backe from their good beginnings checke their owne judgements,
+<pb n="9" facs="tcp:111265:5"/>and diſcover their diffidence; in the one, they become objects of ſeorne to the world; in the other, they pro<g ref="char:EOLhyphen"/>voke the Almighty to puniſh them with what they feare. The vulgar preſuppoſe ſome inviſible power in a Kingdome to preſerve it ſelfe, and twere more to erable if it were in them an act of faith; but being otherwiſe, how doe they injure themſelves, the weale publique, and ſucceeding ages, by their ſhuffelings; (and it were well if the practiſe of greater perſons did not favour of theſe or more ridiculous teners.) The worke is framed, the inſtruments appointed, and the wheele of reformation is now rouling about, and will you deny Oyle to refreſh the decayed ſinews thereof? And although it be the opinion of every Chriſtian, <hi>(quod non pecuniam ſed militum ducumque virtutem belli &amp; imperii nervum eſſe)</hi> that it is not money, but the good cauſe and vertuous Captaines, that are the chiefe cauſes of victory, yet in concurrent and ſecond cauſes we may urge the ſaying of <hi>Demoſthenes, Opus ſunt opes &amp; ſine iis nihil fiet quod opus,</hi> There is need of riches, and without them nought can be done that is needfull. <hi>Thucyd.</hi> ſaith, <hi>Bellum non eſt in armis, ſed in expenſis &amp; ſumptibus per quos efficacia arma &amp; utilia ſiunt,</hi> warre conſiſts more in expence then Armes. And as the Ora<g ref="char:EOLhyphen"/>cle ſaid to the father of <hi>Alexander,</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> 
+               <hi>Haſtis pugna argen<g ref="char:EOLhyphen"/>tatis atque omnia vinces,</hi> Fight with gilded Speares, and be confident of the conqueſt. Much uſe may be made of ſuch morall ſentences. Gods uſuall way of working is by meanes, and where ſuch a way is offered it is a great ſinne in man to neglect it; a ſupernaturall potency is not limited to naturall, but naturall to it; we tempt our maker, in loſing our opportunities; in all contrivances there are the principles and inſtrumen<g ref="char:EOLhyphen"/>tals
+<pb n="10" facs="tcp:111265:6"/>&amp; it is a groſſe omiſſion not to improve things for their proper ends, <hi>Evangeum non tollit politias &amp; ſides non deſtruit naturam,</hi> The Godſpell takes not a way po<g ref="char:EOLhyphen"/>licy, nor doth faith diſtroy nature; ſpirituall things doe not exclude temporall, but regulate them; Our truſt in our divine Captaine forbids not the uſe of helpes, but beclares them ſubordinate. Oh let not the practice of men publiſh them guilty of ſuch unreaſo<g ref="char:EOLhyphen"/>nable opinions; nor let them conceale themſelves, leſt judgement finde them out; he that gives the Talent will demand an account; and ſhall thy brethren pe<g ref="char:EOLhyphen"/>riſh whiles thou haſt meanes to prevent it? It is an un<g ref="char:EOLhyphen"/>naturall and ingratefull part to accompany deſigners to a hazard, and there to leave them; to aſſiſt the ini<g ref="char:EOLhyphen"/>tiation of a good worke, and to relinquiſh the ſame unfiniſhed, manifeſts an ill qualified mind; (for ſuch variation is inconſiſtent with the life of a Chriſtian.) Doe you diſpute the ſecurity of moneys lent out? you may rather doubt of the ſafety of that you retaine; what greater ingagement can be expected, (or being expected, can be given) then the body repreſentative of a Kingdome? they are intruſted in the whole, and ſhall they be diſtruſted in regard of part? can any knowing man conjecture, that they have not conſci<g ref="char:EOLhyphen"/>ences, intereſts, and expectations equall to any other? ſhall your election give them (and your diffidence di<g ref="char:EOLhyphen"/>veſt them of) your conſidences? they are agitating your affairs, &amp; will you not allow their disbutſements. For your ſatisfaction, they have exceeded the preſi<g ref="char:EOLhyphen"/>dents fo any their predeceſſors, and are become your particular accountants, and doe we ſtill repine? we ne<g ref="char:EOLhyphen"/>ver read of any denials of ſupply (when demanded by former Parliaments, but how the people have un<g ref="char:EOLhyphen"/>boweld
+<pb n="11" facs="tcp:111265:6"/>themſelves in ſuch a caſe is obvious, to every Hiſtorian;) will you be the firſt that ever diſerted (take heed you bewaile not being deſtitute of) ſuch a Councell? Is it probable they will dilacerate the au<g ref="char:EOLhyphen"/>thority of future Parliaments, as not to diſ-ingage themſelves? Not to give credence to a private friend, is inhumanity; not to a Parliament is morall infidelity. When that ſerene day ſhall appeare wherein theſe troubles ſhall admit of a tranquillity, you may be con<g ref="char:EOLhyphen"/>fident to receive your owne with advantage, in the in<g ref="char:EOLhyphen"/>terim they are ſharers with you in your ſufferings. <hi>He that gives to the poore, lends to the Lord;</hi> neceſſity deno<g ref="char:EOLhyphen"/>minates poverty, and what ſo great as that which is publiqued? if times thus continue, the rich will be made a prey, and will rejoyce to preſerve any part of their eſtates; To be involved in a condition equall to the moſt miſerable, is a thing we feare not, but are like to taſte of. When His Majeſties forces were at <hi>Branford,</hi> many of the malignants ſent neceſſaries to the Army againſt him, what they did (againſt their ſeeming ſelves) becauſe of feare, ſhall not we doe much more for con<g ref="char:EOLhyphen"/>ſcience ſake? ſo ſtupid are the hearts of men, that no arguments have any inforcement, unleſſe tipt with ex<g ref="char:EOLhyphen"/>tant danger, and thoſe onely imminent (to what ever ob<g ref="char:EOLhyphen"/>ject they relate) leave a ſleight impreſſion, but I pray ſuch may eſcape a too late repentance. What I here im<g ref="char:EOLhyphen"/>portune refers onely to thoſe who ſee a neceſſity of re<g ref="char:EOLhyphen"/>formation, and who either have not afforded ſome ſupplies, or if they have, intend no addition; Alas, our miſeries grow, the enemies forces are like Caterpillers in the Land; we have <hi>Moſes</hi> prayer, but want <hi>Aaron;</hi> rod; nature cals upon you, to be tender of thouſands who
+<pb n="12" facs="tcp:111265:7"/>carry their lives in their hands for your ſake; religion dictates this way, to prevent the powers of the prelate &amp;e. who have long trrannized over the truth; your own ſafety may inform you what ſadneſſe will ſeize upon you when you muſt ſurvive your liberties The Queſtion is not whether religion or no religion, lawes or no lawes, but whether both in their purity and vi<g ref="char:EOLhyphen"/>gor ſhall take place? As for thoſe who delight in theſe diſtractions; who gaine by the peoples groanings, or who are ſuch perſons formerly intimated, or their ad<g ref="char:EOLhyphen"/>herents, I invoke the omnipotent for their conviction, and that in the meane time their hands may not bring to paſſe their owne enterprizes. And here ſorrow ſu<g ref="char:EOLhyphen"/>perſedes expreſſions, <hi>Labeo. omnis morbus eſt habitus con<g ref="char:EOLhyphen"/>tra naturam,</hi> (every diſeaſe being a habite againſt nature;) the diſeaſe and cure of this Region do much de<g ref="char:EOLhyphen"/>ject me, warre is the phyſick, and muſt we not expect a doubtfull combat betwixt the ſpirits and the humors The animadverſion of His Majeſties paſt, and preſens condition, doth diſſlve my thoughts into teares, even in this that the Defender of the Faith ſhould <hi>(peracci<g ref="char:EOLhyphen"/>dens aut aliter)</hi> become an offence to the faithfull. But we hope the principles of Law and Religion have ſtill reſidence in His Royall breſt. &amp; will appeare, when the obſtructions occaſioned by evill Courſellors ſhall be made perſpicuous, and that cloſe of differences the hearts of the people ſhall have cauſe to make in<g ref="char:EOLhyphen"/>ward acclamations for their Soveraignes ſafety, their Parliaments fidellity their owne liberty, their religions ſettlement, and poſterities approaching happineſſes; which ſweet ſaeſon heavens haſten t this Kingdomes cornfort.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
